@@ -32,6 +32,9 @@ copilot.microsoft.com
 api.github.com
 api.githubcopilot.com
 api.individual.githubcopilot.com
+proxy.individual.githubcopilot.com
+telemetry.individual.githubcopilot.com
+default.exp-tas.com
 sydney.bing.com
 edgeservices.bing.com
 claude.com
